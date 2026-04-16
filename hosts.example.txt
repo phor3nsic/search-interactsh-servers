@@ -1,0 +1,7 @@
+# One host/IP/domain per line. Lines starting with # are ignored.
+# Optional :port suffix (defaults to 443).
+#
+# Examples:
+# interact.example.com
+# 198.51.100.10:443
+# oob.lab.local

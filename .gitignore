@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+*.venv*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build / packaging
+build/
+dist/
+*.egg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Runtime output
+*.log
+*.json
+hosts.txt
+valid_hosts.txt
