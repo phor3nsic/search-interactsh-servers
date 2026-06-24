@@ -30,7 +30,7 @@ out-of-band (OOB) subdomains publicly and are listed in the output.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-user>/search-interactsh-servers.git
+git clone https://github.com/phor3nsic/search-interactsh-servers.git
 cd search-interactsh-servers
 
 python3 -m venv venv
